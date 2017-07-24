@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.4.0.jar" sourcepath="/Users/liuxun/Documents/JAVAEE综合知识/传智168期JavaEE就业班/day04-lucene01/课件/lucene-4.4.0-src/lucene-4.4.0"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.4.0.jar" sourcepath="/Users/liuxun/Documents/JAVAEE综合知识/传智168期JavaEE就业班/day04-lucene01/lucene课件/lucene-4.4.0-src"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter-4.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-memory-4.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
